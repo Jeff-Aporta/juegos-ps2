@@ -3,7 +3,7 @@ Lista por alfabeto
 Todos los juegos fueron probados con pcsx2 para checar su funcionamiento y unos pocos con ps2 con opl aniversario
 #
 ## [10.000 bullets](http://q.gs/FRQTN)
-A
+# A
 ## [Ace Combat Distant Thunder](http://q.gs/FRQTO)
 ## [Ace Combat Squadron Leader](http://q.gs/FRQTP)
 ## [Ace Combat The Belkan War](http://q.gs/FRQTQ)
@@ -26,7 +26,7 @@ A
 ## [Artlist Collection - The Dog](http://q.gs/FRQTh)
 ## [Auto Modellista](http://q.gs/FRQTi)
 ## [Avatar The Legend of Aang](http://q.gs/FRQTj)
-B
+# B
 ## [Bakugan Battle Brawlers](http://q.gs/FRQTk)
 ## [BATMAN BEGINS](http://q.gs/FRQTl)
 ## [Batman - The Rise of Sin Tsu](http://q.gs/FRQTm)
@@ -54,7 +54,7 @@ B
 ## [Burnout Dominator](http://q.gs/FRQU8)
 ## [Burnout 2 - Point of Impact](http://q.gs/FRQU9)
 ## [Burnout 3 - Takedown ](http://q.gs/FRQUA)
-C
+# C
 ## [Call of Duty - Finest Hour](http://q.gs/FRQUB)
 ## [Call of Duty - World at War - Final Fronts](http://q.gs/FRQUC)
 ## [Carmen Sandiego - The Secret of the Stolen Drums](http://q.gs/FRQUD)
@@ -74,7 +74,7 @@ C
 ## [Crisis Zone](http://q.gs/FRQUR)
 ## [Crouching Tiger Hidden Dragon](http://q.gs/FRQUS)
 ## [Crusty Demons ](http://q.gs/FRQUT)
-D
+# D
 ## [DAKAR 2](http://q.gs/FRQUU)
 ## [Dark Chronicle](http://q.gs/FRQUV)
 ## [Death by Degrees](http://q.gs/FRQUW)
@@ -84,24 +84,24 @@ D
 ## [Devil Kings](http://q.gs/FRQUa)
 ## [Die Hard Vendetta](http://q.gs/FRQUb)
 ## [Disaster Report ](http://q.gs/FRQUc)
-E
+# E
 ## [Evil Twin Cypriens Chronicles ](http://q.gs/FRQUd)
-F 
+# F 
 ## [Final Fantasy X ](http://q.gs/FRQUe)
 ## [Final Fantasy X-2 ](http://q.gs/FRQUf)
 ## [Final Fantasy XII](http://q.gs/FRQUg)
 ## [Fireblade G](http://q.gs/FRQUh)
 ## [Galerians: Ash ](http://q.gs/FRQUi)
-H 
+# H 
 ## [Harvest Moon - A Wonderful Life](http://q.gs/FRQUj)
 ## [Heroes of Might and Magic ](http://q.gs/FRQUk)
 ## [Hugo - Magic in the Trollwoods ](http://q.gs/FRQUl)
-I 
+# I 
 ## [Ico ](http://q.gs/FRQUm)
-J 
+# J 
 ## [Jackie Chan Adventures](http://q.gs/FRQUn)
 ## [Jax Daxter ](http://q.gs/FRQUo)
-K 
+# K 
 ## [Killzone ](http://q.gs/FRQUp)
 ## [kill.switch ](http://q.gs/FRQUq)
 ## [Kingdoom Hearts ](http://q.gs/FRQUr)
@@ -109,7 +109,7 @@ K
 ## [Kingdom Herart II final Mix ](http://q.gs/FRQUt)
 ## [KOF 2002 Unlimited Match](http://q.gs/FRQUu)
 ## [Kuon](http://q.gs/FRQUv)
-L
+# L
 ## [La Fuga de Monkey Island](http://q.gs/FRQUw)
 ## [LA Rush](http://q.gs/FRQUx)
 ## [Lara Croft Tomb Raider - Anniversary](http://q.gs/FRQUy)
@@ -119,22 +119,22 @@ L
 ## [Mouse Trophy](http://q.gs/FRQV2)
 ## [Mr Bean](http://q.gs/FRQV3)
 ## [Mummy Returns](http://q.gs/FRQV4)
-N
+# N
 ## [Namco Museum 50th Anniversary](http://q.gs/FRQV5)
 ## [Ninja Assault](http://q.gs/FRQV6)
-O
+# O
 ## [Orphen - Scion of Sorcery](http://q.gs/FRQV7)
-P
+# P
 ## [Pac-Man World 2](http://q.gs/FRQV8)
-Q
-R
+# Q
+# R
 ## [Rayman - Raving Rabbids](http://q.gs/FRQV9)
 ## [Riding Spirits](http://q.gs/FRQVA)
 ## [Robin Hood - Defender of the Crown](http://q.gs/FRQVB)
 ## [Rogue Galaxy](http://q.gs/FRQVC)
 ## [Rumble Racing](http://q.gs/FRQVD)
 ## [Rygar - The Legendary Adventure](http://q.gs/FRQVE)
-S
+# S
 ## [Saint Seiya - The Hades](http://q.gs/FRQVF)
 ## [Saint Seiya - The Sanctuary](http://q.gs/FRQVG)
 ## [Samurai Jack - The Shadow of Aku](http://q.gs/FRQVH)
@@ -177,9 +177,8 @@ S
 ## [Super Farm](http://q.gs/FRQVs)
 ## [Swords of Destiny](http://q.gs/FRQVt)
 ## [Syphon Filter - Dark Mirror](http://q.gs/FRQVu)
-T
-## [The Lord of The Rings The Return of The](http://q.gs/FRQVv)
-King
+# T
+## [The Lord of The Rings The Return of The King](http://q.gs/FRQVv)
 ## [The Lord Of The Rings The Third Age](http://q.gs/FRQVw)
 ## [The Simpsons Hit Run](http://q.gs/FRQVx)
 ## [The Sims](http://q.gs/FRQVy)
@@ -194,12 +193,12 @@ King
 ## [Total Overdose](http://q.gs/FRQW7)
 ## [True Crime New York City](http://q.gs/FRQW8)
 ## [Twisted Metal Black](http://q.gs/FRQW9)
-U
+# U
 ## [Urban Reign](http://q.gs/FRQWA)
-V
+# V
 ## [Vampire Night](http://q.gs/FRQWB)
 ## [Virtua Cop - Elite Edition](http://q.gs/FRQWC)
-W
+# W
 ## [Wallace & Gromit - The Curse of the Were-Rabbit](http://q.gs/FRQWD)
 ## [Walt Disney Pictures Presents Meet the Robinsons](http://q.gs/FRQWE)
 ## [Warhammer 40,000 - Fire Warrior](http://q.gs/FRQWF)
@@ -207,13 +206,13 @@ W
 ## [Winx Club](http://q.gs/FRQWH)
 ## [Without Warning](http://q.gs/FRQWI)
 ## [WWE SmackDown! Here Comes the Pain](http://q.gs/FRQWJ)
-Y
+# Y
 ## [Yu Yu Hakusho - Dark Tournament](http://q.gs/FRQWK)
 ## [Yu-Gi-Oh! The Duelists of the Roses](http://q.gs/FRQWL)
-X
+# X
 ## [XGRA - Extreme G Racing Association](http://q.gs/FRQWM)
 ## [Xiaolin Showdown](http://q.gs/FRQWN)
-Z
+# Z
 ## [Zapper - One Wicked Cricket](http://q.gs/FRQWO)
 ## [Zathura](http://q.gs/FRQWP)
 ## [Zone of the Enders - The 2nd Runner](http://q.gs/FRQWQ)
