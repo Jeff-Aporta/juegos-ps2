@@ -1,4 +1,4 @@
-# Juegos de PlayStation 2
+# Juegos de PlayStation 2 (PCSX2)
 Lista por alfabeto
 Todos los juegos fueron probados con pcsx2 para checar su funcionamiento y unos pocos con ps2 con opl aniversario
 #
@@ -71,6 +71,7 @@ Todos los juegos fueron probados con pcsx2 para checar su funcionamiento y unos 
 ### [Constantine](http://q.gs/FRQUO)
 ### [Crash 'n' Burn](http://q.gs/FRQUP)
 ### [Crash Twinsanity](http://q.gs/FRQUQ)
+### [Crazy Taxi](http://j.gs/GAv0)
 ### [Crisis Zone](http://q.gs/FRQUR)
 ### [Crouching Tiger Hidden Dragon](http://q.gs/FRQUS)
 ### [Crusty Demons ](http://q.gs/FRQUT)
@@ -84,19 +85,27 @@ Todos los juegos fueron probados con pcsx2 para checar su funcionamiento y unos 
 ### [Devil Kings](http://q.gs/FRQUa)
 ### [Die Hard Vendetta](http://q.gs/FRQUb)
 ### [Disaster Report ](http://q.gs/FRQUc)
+### [Dynasty Warriors 3 Xtreme Legends](http://j.gs/GAuf)
+### [Dynasty Warriors 4 Empires](http://j.gs/GAuZ)
 # E
 ### [Evil Twin Cypriens Chronicles ](http://q.gs/FRQUd)
+### [Evolution Skateboarding](http://j.gs/GAus)
+### [Evolution snowboarding](http://j.gs/GAut)
 # F 
+### [Fallout Brotherhood of Steel](http://j.gs/GAuq)
 ### [Final Fantasy X ](http://q.gs/FRQUe)
 ### [Final Fantasy X-2 ](http://q.gs/FRQUf)
 ### [Final Fantasy XII](http://q.gs/FRQUg)
 ### [Fireblade G](http://q.gs/FRQUh)
 ### [Galerians: Ash ](http://q.gs/FRQUi)
+# G
+### [Ghosthunter](http://j.gs/GAup)
 # H 
 ### [Harvest Moon - A Wonderful Life](http://q.gs/FRQUj)
 ### [Heroes of Might and Magic ](http://q.gs/FRQUk)
 ### [Hugo - Magic in the Trollwoods ](http://q.gs/FRQUl)
 # I 
+### [Ice Age 2 The Meltdown](http://j.gs/GAuo)
 ### [Ico ](http://q.gs/FRQUm)
 # J 
 ### [Jackie Chan Adventures](http://q.gs/FRQUn)
@@ -126,6 +135,7 @@ Todos los juegos fueron probados con pcsx2 para checar su funcionamiento y unos 
 ### [Orphen - Scion of Sorcery](http://q.gs/FRQV7)
 # P
 ### [Pac-Man World 2](http://q.gs/FRQV8)
+### [PES 2021](http://j.gs/GAuw)
 # Q
 # R
 ### [Rayman - Raving Rabbids](http://q.gs/FRQV9)
