@@ -1,6 +1,14 @@
 # Juegos de PlayStation 2 (PCSX2)
 Lista por alfabeto
 Todos los juegos fueron probados con pcsx2 para checar su funcionamiento y unos pocos con ps2 con opl aniversario
+
+Para jugar este juego en tu computador, es necesario que primero tengas instalado el emulador PCSX2. dejaré el link de descarga de PCSX2 directamente desde la página oficial.
+### [DESCARGA PCSX2](http://j.gs/G9WN)
+Y las BIOS desde Mediafire o MEGA, para que uses el servidor que más te guste.
+### DESCARGA BIOS PARA PCSX2 [MEGA](http://j.gs/G9WO) [MEDIAFIRE](http://j.gs/G9WP)
+
+Los juegos estarán alojados en Telegram, ya que esta plataforma no pone problema para subir archivos de gran tamaño.
+
 #
 ### [10.000 bullets](http://q.gs/FRQTN)
 # A
