@@ -9,7 +9,7 @@ Y las BIOS desde Mediafire o MEGA, para que uses el servidor que más te guste.
 
 Los juegos estarán alojados en Telegram, ya que esta plataforma no pone problema para subir archivos de gran tamaño.
 
-#
+# #
 ### [10.000 bullets](http://q.gs/FRQTN)
 # A
 ### [Ace Combat Distant Thunder](http://q.gs/FRQTO)
